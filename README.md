@@ -46,3 +46,11 @@ The project is a work in progress and is not yet complete.
 - [ ] User following
 - [ ] User feed (posts from users you follow)
 - [ ] User flair
+
+PERSONAL NOTES
+
+- my deployment stressed me out as I couldn't import my .env file for some reason. I added everything i thought i needed but it was still telling me that a log of some kinda would show me what the problem was but I had no log error. I ended up just restarting and making a new git developer app. I must haved copied something wrong somewhere in the original.
+
+- fixed the page title to match post title. I used the metadata lesson and the below function on the postid page to help.
+
+- the user only being able to vote once seemed to work without me changing anything? i added some code to my votes table that nicky suggested and explained but it didnt seem to hcange anything
