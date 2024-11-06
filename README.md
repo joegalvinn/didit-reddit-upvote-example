@@ -55,4 +55,4 @@ PERSONAL NOTES
 
 - the user only being able to vote once seemed to work without me changing anything? i added some code to my votes table that nicky suggested and explained but it didnt seem to hcange anything
 
-- i have added an error page for when you are not logged in
+- i have added an error and not found page for when you are not logged in
